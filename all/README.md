@@ -1,13 +1,12 @@
 # Player - A Music Player
 
-Welcome to **Player**, a lightweight, terminal-based music player made with love in Python! Perfect for vibing to your favorite `.flac` tracks with a CLI interface.
+Welcome to **Player**, a lightweight, terminal-based music player made with love in Python! Perfect for vibing to your favorite `.wav` tracks with a CLI interface.
 
 ---
 
 ##  Features
 
-* Play high-quality audio (`.flac`) right from your terminal
-* Simple and intuitive CLI controls
+* Play high-quality audio (`.wav`) right from your terminal
 * Easy setup and installation
 * Based on libVLC
 
